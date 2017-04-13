@@ -1,0 +1,1 @@
+python tf_wine_labeler/tf_wine_labeler/label_image.py test.jpg
